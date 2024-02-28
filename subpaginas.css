@@ -1,0 +1,31 @@
+body {font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #9cfcff;
+    color: black;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;}
+    h1 {font-size: 50px;
+    padding-left: 400pt;
+    background-color: #74a5ff;}
+    * {padding-left: 10pt;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;}
+    img {padding-left: 300px;}
+    a{
+        color: black;
+        background-color: #74a5ff;
+        padding-bottom:3%;
+        padding-left:5%;
+    }
+    p{
+        color: #005255;
+        background-color: #9cfcff
+    }
+    table{
+        background-color: #4cf9ff
+    }
+    .caja{
+        width: fit-content;
+    }
